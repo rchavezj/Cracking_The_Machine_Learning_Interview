@@ -24,26 +24,26 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 1. What is broadcasting in connection to Linear Algebra?
 2. What are scalars, vectors, matrices, and tensors?
-What is Hadamard product of two matrices?
-What is an inverse matrix?
-If inverse of a matrix exists, how to calculate it?
-What is the determinant of a square matrix? How is it calculated? What is the connection of determinant to eigenvalues?
-Discuss span and linear dependence.
-What is Ax = b? When does Ax =b has a unique solution?
-In Ax = b, what happens when A is fat or tall?
-When does inverse of A exist?
-What is a norm? What is L1, L2 and L infinity norm?
-What are the conditions a norm has to satisfy?
-Why is squared of L2 norm preferred in ML than just L2 norm?
-When L1 norm is preferred over L2 norm?
-Can the number of nonzero elements in a vector be defined as L0 norm? If no, why?
-What is Frobenius norm?
-What is a diagonal matrix?
-Why is multiplication by diagonal matrix computationally cheap? How is the multiplication different for square vs. non-square diagonal matrix?
-At what conditions does the inverse of a diagonal matrix exist?
-What is a symmetrix matrix?
-What is a unit vector?
-When are two vectors x and y orthogonal?
+3. What is Hadamard product of two matrices?
+4. What is an inverse matrix?
+5. If inverse of a matrix exists, how to calculate it?
+6. What is the determinant of a square matrix? How is it calculated? What is the connection of determinant to eigenvalues?
+7. Discuss span and linear dependence.
+8. What is Ax = b? When does Ax =b has a unique solution?
+9. In Ax = b, what happens when A is fat or tall?
+10. When does inverse of A exist?
+11. What is a norm? What is L1, L2 and L infinity norm?
+12. What are the conditions a norm has to satisfy?
+13. Why is squared of L2 norm preferred in ML than just L2 norm?
+14. When L1 norm is preferred over L2 norm?
+15. Can the number of nonzero elements in a vector be defined as L0 norm? If no, why?
+16. What is Frobenius norm?
+17. What is a diagonal matrix?
+18. Why is multiplication by diagonal matrix computationally cheap? How is the multiplication different for square vs. non-square diagonal matrix?
+19. At what conditions does the inverse of a diagonal matrix exist?
+20. What is a symmetrix matrix?
+21. What is a unit vector?
+22. When are two vectors x and y orthogonal?
 At R^n what is the maximum possible number of orthogonal vectors with non-zero norm?
 When are two vectors x and y orthonormal?
 What is an orthogonal matrix? Why is computationally preferred?
