@@ -24,6 +24,8 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ![alt_text](01_Linear_Algebra/linear_algebra.png)
 
+<img src="01_Linear_Algebra/linear_algebra.png">
+
 1. What is broadcasting in connection to Linear Algebra?
 2. What are scalars, vectors, matrices, and tensors?
 3. What is Hadamard product of two matrices?
