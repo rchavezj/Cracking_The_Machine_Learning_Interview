@@ -4,7 +4,8 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ![alt_text](https://github.com/rchavezj/Cracking_The_Machine_Learning_Interview/blob/master/crackingTheMachineLearningInterviewCover.png)
 
-| # Contents:                       |                                          |
+# Contents:
+|                        |                                          |
 | ---------------------- | ---------------------------------------- |
 | 1. [Linear Algebra](#Linear-Algebra)                         | 2. [Numerical Optimization](#Numerical-Optimization)                                         |
 | 3. [Basics of Probability and Information Theory](#Basics-of-Probability-and-Information-Theory)                                                                                                        |  4. [Confidence-Interval](#Confidence-Interval)|
