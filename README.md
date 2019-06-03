@@ -28,12 +28,13 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 21. [Representation Learning](#Representation-Learning)
 22. [Monte Carlo Methods](#Monte-Carlo-Methods)
 
-### Self Driving Cars
-|                       |        |
-| :---:                 | :----: |
-| \let\centering\relax 1. [Linear Algebra](#Linear-Algebra)    |            |
-| \let\centering\relax 2. [Numerical Optimization](#Numerical-Optimization)    |            |
-| \let\centering\relax 3. [Basics of Probability and Information Theory](#Basics-of-Probability-and-Information-Theory)    |            |
+
+| Part 1                   | Part 2                              |
+| ---------------------- | ---------------------------------------- |
+| Next Cell              | Move to the next cell                    |
+| 1. [Linear Algebra](#Linear-Algebra)    |            |
+| 2. [Numerical Optimization](#Numerical-Optimization)    |            |
+| 3. [Basics of Probability and Information Theory](#Basics-of-Probability-and-Information-Theory)    |            |
 | 4. [Confidence-Interval](#Confidence-Interval)    |            |
 | 5. [Learning Theory](#Learning-Theory)   |            |
 | 6. [Model and Feature Selection](#Model-and-Feature-Selection)    |            |
