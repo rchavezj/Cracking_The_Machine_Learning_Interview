@@ -29,9 +29,8 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 22. [Monte Carlo Methods](#Monte-Carlo-Methods)
 
 
-|                        | 
+|                        |                                          |
 | ---------------------- | ---------------------------------------- |
-| Next Cell              | Move to the next cell                    |
 | 1. [Linear Algebra](#Linear-Algebra)    | 12. [Regularization](#Regularization)           |
 | 2. [Numerical Optimization](#Numerical-Optimization)    |            |
 | 3. [Basics of Probability and Information Theory](#Basics-of-Probability-and-Information-Theory)    |            |
