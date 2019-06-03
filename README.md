@@ -31,7 +31,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 
-
+<body>
 
 # Contents:
 
@@ -50,7 +50,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
   </div>
 </div>
     
-    
+</body>
     
 3. [Basics of Probability and Information Theory](#Basics-of-Probability-and-Information-Theory)
 4. [Confidence-Interval](#Confidence-Interval)
