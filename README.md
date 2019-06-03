@@ -5,9 +5,6 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 ![alt_text](https://github.com/rchavezj/Cracking_The_Machine_Learning_Interview/blob/master/crackingTheMachineLearningInterviewCover.png)
 
 # Contents:
-<div class="container">
-    <div class="row">
-      <div class="col-xs-6">
 1. [Linear Algebra](#Linear-Algebra)
 2. [Numerical Optimization](#Numerical-Optimization)
 3. [Basics of Probability and Information Theory](#Basics-of-Probability-and-Information-Theory)
@@ -19,8 +16,6 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 9. [Deep Learning motivation](#Deep-Learning-Motivation)
 10. [Support Vector Machine](#Support-Vector-Machine)
 11. [Bayesian Machine Learning](#Bayesian-Machine-Learning)
-      </div>
-      <div class="col-xs-6">
 12. [Regularization](#Regularization)
 13. [Evaluation of Machine Learning systems](#Evaluation-of-Machine-Learning-Systems)
 14. [Clustering](#Clustering)
@@ -32,10 +27,6 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 20. [Autoencoders](#Autoencoders)
 21. [Representation Learning](#Representation-Learning)
 22. [Monte Carlo Methods](#Monte-Carlo-Methods)
-      </div> 
-  </div>
-</div>
-
 
 ### Self Driving Cars
 |                       |        |
