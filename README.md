@@ -44,25 +44,25 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 20. What is a symmetrix matrix?
 21. What is a unit vector?
 22. When are two vectors x and y orthogonal?
-At R^n what is the maximum possible number of orthogonal vectors with non-zero norm?
-When are two vectors x and y orthonormal?
-What is an orthogonal matrix? Why is computationally preferred?
-What is eigendecomposition, eigenvectors and eigenvalues?
-How to find eigen values of a matrix?
-Write the eigendecomposition formula for a matrix. If the matrix is real symmetric, how will this change?
-Is the Eigendecomposition guaranteed to be unique? If not, then how do we represent it?
-What are positive definite, negative definite, positive semi definite and negative semi definite matrices?
-What is Singular Value Decomposition? Why do we use it? Why not just use ED?
-Given a matrix A, how will you calculate its Singular Value Decomposition?
-What are singular values, left singulars and right singulars?
-What is the connection of Singular Value Decomposition of A with functions of A?
-Why are singular values always non-negative?
-What is the Moore Penrose pseudo inverse and how to calculate it?
-If we do Moore Penrose pseudo inverse on Ax = b, what solution is provided is A is fat? Moreover, what solution is provided if A is tall?
-Which matrices can be decomposed by ED?
-Which matrices can be decomposed by SVD?
-What is the trace of a matrix?
-How to write Frobenius norm of a matrix A in terms of trace?
-Why is trace of a multiplication of matrices invariant to cyclic permutations?
-What is the trace of a scalar?
-Write the frobenius norm of a matrix in terms of trace?
+23. At R^n what is the maximum possible number of orthogonal vectors with non-zero norm?
+24. When are two vectors x and y orthonormal?
+25. What is an orthogonal matrix? Why is computationally preferred?
+26. What is eigendecomposition, eigenvectors and eigenvalues?
+27. How to find eigen values of a matrix?
+28. Write the eigendecomposition formula for a matrix. If the matrix is real symmetric, how will this change?
+29. Is the Eigendecomposition guaranteed to be unique? If not, then how do we represent it?
+30. What are positive definite, negative definite, positive semi definite and negative semi definite matrices?
+31. What is Singular Value Decomposition? Why do we use it? Why not just use ED?
+32. Given a matrix A, how will you calculate its Singular Value Decomposition?
+33. What are singular values, left singulars and right singulars?
+34. What is the connection of Singular Value Decomposition of A with functions of A?
+35. Why are singular values always non-negative?
+36. What is the Moore Penrose pseudo inverse and how to calculate it?
+37. If we do Moore Penrose pseudo inverse on Ax = b, what solution is provided is A is fat? Moreover, what solution is provided if A is tall?
+38. Which matrices can be decomposed by ED?
+39. Which matrices can be decomposed by SVD?
+40. What is the trace of a matrix?
+41. How to write Frobenius norm of a matrix A in terms of trace?
+42. Why is trace of a multiplication of matrices invariant to cyclic permutations?
+43. What is the trace of a scalar?
+44. Write the frobenius norm of a matrix in terms of trace?
