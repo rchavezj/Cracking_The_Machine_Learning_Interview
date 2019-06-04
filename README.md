@@ -22,7 +22,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Linear Algebra
-<img src="01_Linear_Algebra/linear_algebra.png">
+<img src="01_Linear_Algebra/linear_algebra.png" width="700">
 
 1. What is broadcasting in connection to Linear Algebra?
 2. What are scalars, vectors, matrices, and tensors?
