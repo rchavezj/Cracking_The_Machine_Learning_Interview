@@ -1,4 +1,4 @@
-# Cracking The Machine Learning Interview
+# Cracking The Machine Learning Interview Solutions
 ### -------> Currently under construction! <-------
 Solutions from the Medium article "Cracking the Machine Learning Interview" written by Subhrajit Roy
 https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8
@@ -22,7 +22,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Linear Algebra
-<img src="01_Linear_Algebra/linear_algebra.png" width="200">
+<img src="01_Linear_Algebra/linear_algebra.png" width="700">
 
 1. What is broadcasting in connection to Linear Algebra?
 2. What are scalars, vectors, matrices, and tensors?
@@ -71,7 +71,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Numerical Optimization
-<img src="02_Numerical_Optimization/Numerical_Optimization.jpg" width="200">
+<img src="02_Numerical_Optimization/Numerical_Optimization.jpg">
 
 1. What is underflow and overflow?
 2. How to tackle the problem of underflow or overflow for softmax function or log softmax function?
@@ -87,7 +87,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 12. What is a Hessian matrix?
 
 ### Basics of Probability and Information Theory
-<img src="03_Basics_of_Probability_and_Information_Theory/Basics_of_Probability_and_Information_Theory.png" width="200">
+<img src="03_Basics_of_Probability_and_Information_Theory/Basics_of_Probability_and_Information_Theory.png">
 
 1. Compare “Frequentist probability” vs. “Bayesian probability”?
 2. What is a random variable?
@@ -128,7 +128,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Confidence interval
-<img src="04_Confidence_Interval/confidence_interval.jpeg" width="200">
+<img src="04_Confidence_Interval/confidence_interval.jpeg">
 
 1. What is population mean and sample mean?
 2. What is population standard deviation and sample standard deviation?
@@ -136,3 +136,24 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 4. What is the formula for calculating the s.d. of the sample mean?
 5. What is confidence interval?
 6. What is standard error?
+
+
+
+### Learning Theory
+<img src="05_Learning_Theory/ml_learning_theory.png">
+
+1. Describe bias and variance with examples.
+2. What is Empirical Risk Minimization?
+3. What is Union bound and Hoeffding’s inequality?
+4. Write the formulae for training error and generalization error. Point out the differences.
+5. State the uniform convergence theorem and derive it.
+6. What is sample complexity bound of uniform convergence theorem?
+7. What is error bound of uniform convergence theorem?
+8. What is the bias-variance trade-off theorem?
+9. From the bias-variance trade-off, can you derive the bound on training set size?
+10. What is the VC dimension?
+11. What does the training set size depend on for a finite and infinite hypothesis set? Compare and contrast.
+12. What is the VC dimension for an n-dimensional linear classifier?
+13. How is the VC dimension of a SVM bounded although it is projected to an infinite dimension?
+14. Considering that Empirical Risk Minimization is a NP-hard problem, how does logistic regression and SVM loss work?
+
