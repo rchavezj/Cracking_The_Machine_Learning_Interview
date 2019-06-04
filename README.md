@@ -351,7 +351,7 @@ Discuss VC dimension.
 
 
 ### Sequence Modeling
-<img src="19_Sequence_Modeling/19_Sequence_Modeling.png">
+<img src="19_Sequence_Modeling/19_Sequence_Modeling.jpg">
 
 1. Write the equation describing a dynamical system. Can you unfold it? Now, can you use this to describe a RNN?
 2. What determines the size of an unfolded graph?
