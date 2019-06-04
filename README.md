@@ -72,6 +72,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Numerical Optimization
 <img src="02_Numerical_Optimization/Numerical_Optimization.jpg" width="200">
+
 1. What is underflow and overflow?
 2. How to tackle the problem of underflow or overflow for softmax function or log softmax function?
 3. What is poor conditioning?
