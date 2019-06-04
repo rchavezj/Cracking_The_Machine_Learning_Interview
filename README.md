@@ -134,7 +134,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Confidence interval
-<img src="04_Confidence_Interval/confidence_interval.jpeg">
+<img src="04_Confidence_Interval/04_Confidence_Interval.png">
 
 1. What is population mean and sample mean?
 2. What is population standard deviation and sample standard deviation?
