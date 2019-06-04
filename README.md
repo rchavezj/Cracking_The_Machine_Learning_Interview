@@ -1,9 +1,11 @@
-# Cracking The Machine Learning Interview Solutions
+# Solutions on Cracking The Machine Learning Interview
 ### -------> Currently under construction! <-------
-Solutions from the Medium article "Cracking the Machine Learning Interview" written by Subhrajit Roy. Subhrajit has intentions of creating his own solutions to each question but this article was posted over a year ago with no updates. 
+Solutions from the Medium article "Cracking the Machine Learning Interview" written by Subhrajit Roy. Subhrajit has only written down the questions in the article with no update in the past year. I plan on finishing the war.  
 https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8
 
-![alt_text](https://github.com/rchavezj/Cracking_The_Machine_Learning_Interview/blob/master/crackingTheMachineLearningInterviewCover.png)
+<a href="https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8" target="_blank">
+  <img src="https://github.com/rchavezj/Cracking_The_Machine_Learning_Interview/blob/master/crackingTheMachineLearningInterviewCover.png">
+</a>
 
 # Contents:
 |                        |                                          |
