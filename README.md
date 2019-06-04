@@ -140,4 +140,4 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Learning Theory
-<img src="05_Learning_Theory/ml_learning_theory.png" width="200">
+<img src="05_Learning_Theory/ml_learning_theory.png">
