@@ -87,4 +87,4 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 12. What is a Hessian matrix?
 
 ### Basics of Probability and Information Theory
-<img src="03_Basics_of_Probability_and_Information_Theory/Basics_of_Probability_and_Information_Theory" width="200">
+<img src="03_Basics_of_Probability_and_Information_Theory/Basics_of_Probability_and_Information_Theory.png" width="200">
