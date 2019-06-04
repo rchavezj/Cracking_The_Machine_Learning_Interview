@@ -136,3 +136,8 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 4. What is the formula for calculating the s.d. of the sample mean?
 5. What is confidence interval?
 6. What is standard error?
+
+
+
+### Learning Theory
+<img src="05_Learning_Theory/ml_learning_theory.png" width="200">
