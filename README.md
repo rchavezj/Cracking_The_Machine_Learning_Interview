@@ -22,7 +22,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Linear Algebra
-<img src="01_Linear_Algebra/linear_algebra.png" width="400">
+<img src="01_Linear_Algebra/linear_algebra.png">
 
 1. What is broadcasting in connection to Linear Algebra?
 2. What are scalars, vectors, matrices, and tensors?
@@ -71,7 +71,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Numerical Optimization
-<img src="02_Numerical_Optimization/Numerical_Optimization.jpg" width="400">
+<img src="02_Numerical_Optimization/Numerical_Optimization.jpg">
 
 1. What is underflow and overflow?
 2. How to tackle the problem of underflow or overflow for softmax function or log softmax function?
@@ -87,7 +87,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 12. What is a Hessian matrix?
 
 ### Basics of Probability and Information Theory
-<img src="03_Basics_of_Probability_and_Information_Theory/Basics_of_Probability_and_Information_Theory.png" width="200">
+<img src="03_Basics_of_Probability_and_Information_Theory/Basics_of_Probability_and_Information_Theory.png">
 
 1. Compare “Frequentist probability” vs. “Bayesian probability”?
 2. What is a random variable?
