@@ -126,3 +126,13 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 35. What are structured probabilistic models or graphical models?
 36. In the context of structured probabilistic models, what are directed and undirected models? How are they represented? What are cliques in undirected structured probabilistic models?
 
+
+### Confidence interval
+<img src="04_Confidence_Interval/confidence_interval.jpeg" width="200">
+
+1. What is population mean and sample mean?
+2. What is population standard deviation and sample standard deviation?
+3. Why population s.d. has N degrees of freedom while sample s.d. has N-1 degrees of freedom? In other words, why 1/N inside root for pop. s.d. and 1/(N-1) inside root for sample s.d.?
+4. What is the formula for calculating the s.d. of the sample mean?
+5. What is confidence interval?
+6. What is standard error?
