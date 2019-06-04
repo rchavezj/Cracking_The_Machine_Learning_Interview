@@ -22,7 +22,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Linear Algebra
-<img src="01_Linear_Algebra/linear_algebra.png" width="200">
+<img src="01_Linear_Algebra/linear_algebra.png" width="400">
 
 1. What is broadcasting in connection to Linear Algebra?
 2. What are scalars, vectors, matrices, and tensors?
@@ -71,7 +71,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Numerical Optimization
-<img src="02_Numerical_Optimization/Numerical_Optimization.jpg" width="200">
+<img src="02_Numerical_Optimization/Numerical_Optimization.jpg" width="400">
 
 1. What is underflow and overflow?
 2. How to tackle the problem of underflow or overflow for softmax function or log softmax function?
@@ -128,7 +128,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Confidence interval
-<img src="04_Confidence_Interval/confidence_interval.jpeg" width="200">
+<img src="04_Confidence_Interval/confidence_interval.jpeg">
 
 1. What is population mean and sample mean?
 2. What is population standard deviation and sample standard deviation?
