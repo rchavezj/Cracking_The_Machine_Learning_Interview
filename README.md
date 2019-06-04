@@ -161,6 +161,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Model and feature selection
 <img src="06_Feature_Engineering/06_Feature_Engineering.png">
+
 1. Why are model selection methods needed?
 2. How do you do a trade-off between bias and variance?
 3. What are the different attributes that can be selected by model selection methods?
