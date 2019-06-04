@@ -157,3 +157,23 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 13. How is the VC dimension of a SVM bounded although it is projected to an infinite dimension?
 14. Considering that Empirical Risk Minimization is a NP-hard problem, how does logistic regression and SVM loss work?
 
+
+
+### Model and feature selection
+<img src="06_Feature_Engineering/06_Feature_Engineering.png">
+
+1. Why are model selection methods needed?
+2. How do you do a trade-off between bias and variance?
+3. What are the different attributes that can be selected by model selection methods?
+4. Why is cross-validation required?
+5. Describe different cross-validation techniques.
+6. What is hold-out cross validation? What are its advantages and disadvantages?
+7. What is k-fold cross validation? What are its advantages and disadvantages?
+8. What is leave-one-out cross validation? What are its advantages and disadvantages?
+9. Why is feature selection required?
+10. Describe some feature selection methods.
+11. What is forward feature selection method? What are its advantages and disadvantages?
+12. What is backward feature selection method? What are its advantages and disadvantages?
+13. What is filter feature selection method and describe two of them?
+14. What is mutual information and KL divergence?
+15. Describe KL divergence intuitively.
