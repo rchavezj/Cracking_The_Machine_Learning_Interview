@@ -351,7 +351,7 @@ Discuss VC dimension.
 
 
 ### Sequence Modeling
-<img src="19_Sequence_Modeling/">
+<img src="19_Sequence_Modeling/19_Sequence_Modeling.png">
 
 1. Write the equation describing a dynamical system. Can you unfold it? Now, can you use this to describe a RNN?
 2. What determines the size of an unfolded graph?
@@ -377,7 +377,7 @@ Discuss VC dimension.
 
 
 ### Autoencoders
-<img src="20_Autoencoders/">
+<img src="20_Autoencoders/20_Autoencoders.png">
 
 1. What is an Autoencoder? What does it “auto-encode”?
 2. What were Autoencoders traditionally used for? Why there has been a resurgence of Autoencoders for generative modeling?
@@ -408,7 +408,7 @@ Discuss VC dimension.
 
 
 ### Representation Learning
-<img src="21_Representation_Learning/">
+<img src="21_Representation_Learning/21_Representation_Learning.png">
 
 1. What is representation learning? Why is it useful?
 2. What is the relation between Representation Learning and Deep Learning?
@@ -426,7 +426,7 @@ Discuss VC dimension.
 
 
 ### Monte Carlo Methods
-<img src="22_Monte_Carlo_Methods/">
+<img src="22_Monte_Carlo_Methods/22_Monte_Carlo_Methods.png">
 
 1. What are deterministic algorithms?
 2. What are Las vegas algorithms?
