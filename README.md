@@ -432,3 +432,5 @@ Discuss VC dimension.
 2. What are Las vegas algorithms?
 3. What are deterministic approximate algorithms?
 4. What are Monte Carlo algorithms?
+
+[Return back to Contents](#Contents)
