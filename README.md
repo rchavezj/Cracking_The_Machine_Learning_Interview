@@ -212,7 +212,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Support Vector Machine
-<img src="10_Support_Vector_Machine/10_Support_Vector_Machine.jpg">
+<img src="10_Support_Vector_Machine/10_Support_Vector_Machine.png">
 
 1. How can the SVM optimization function be derived from the logistic regression optimization function?
 2. What is a large margin classifier?
@@ -234,7 +234,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Bayesian Machine Learning
-<img src="11_Bayesian_Machine_Learning/">
+<img src="11_Bayesian_Machine_Learning/11_Bayesian_Machine_Learning.jpg">
 
 1. What are the differences between “Bayesian” and “Freqentist” approach for Machine Learning?
 2. Compare and contrast maximum likelihood and maximum a posteriori estimation.
@@ -245,7 +245,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Regularization
-<img src="12_Regularization/">
+<img src="12_Regularization/12_Regularization.png">
 
 1. What is L1 regularization?
 2. What is L2 regularization?
@@ -257,7 +257,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Evaluation of Machine Learning systems
-<img src="13_Evaluation_of_Machine_Learning_Systems/">
+<img src="13_Evaluation_of_Machine_Learning_Systems/13_Evaluation_of_Machine_Learning_Systems.jpg">
 
 1. What are accuracy, sensitivity, specificity, ROC?
 2. What are precision and recall?
@@ -266,7 +266,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Clustering
-<img src="14_Clustering/">
+<img src="14_Clustering/14_Clustering.png">
 
 1. Describe the k-means algorithm.
 2. What is distortion function? Is it convex or non-convex?
@@ -280,7 +280,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Dimensionality Reduction
-<img src="15_Dimensionality Reduction/">
+<img src="15_Dimensionality_Reduction/15_Dimensionality_Reduction.png">
 
 1. Why do we need dimensionality reduction techniques?
 2. What do we need PCA and what does it do?
@@ -290,7 +290,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Basics of Natural Language Processing
-<img src="16_Basics_of_Natural_Language_Processing/">
+<img src="16_Basics_of_Natural_Language_Processing/16_Basics_of_Natural_Language_Processing.png">
 
 1. What is WORD2VEC?
 2. What is t-SNE? Why do we use PCA instead of t-SNE?
@@ -307,7 +307,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 ### Some basic questions
-<img src="17_Some_basic_Questions/">
+<img src="17_Some_basic_Questions/17_Some_basic_Questions.png">
 
 1. Can you state Tom Mitchell’s definition of learning and discuss T, P and E?
 2. What can be different types of tasks encountered in Machine Learning?
@@ -338,7 +338,7 @@ Discuss VC dimension.
 
 
 ### Optimization procedures
-<img src="18_Optimization_Procedures/">
+<img src="18_Optimization_Procedures/18_Optimization_Procedures.png">
 
 1. What is the difference between an optimization problem and a Machine Learning problem?
 2. How can a learning problem be converted into an optimization problem?
