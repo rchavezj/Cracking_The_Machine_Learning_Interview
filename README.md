@@ -26,6 +26,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Linear Algebra
 [(Return back to Contents)](#Contents)
+
 <img src="01_Linear_Algebra/linear_algebra.png" width="700">
 
 1. What is broadcasting in connection to Linear Algebra?
@@ -77,6 +78,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Numerical Optimization
 [(Return back to Contents)](#Contents)
+
 <img src="02_Numerical_Optimization/optimization_cover.png">
 
 1. What is underflow and overflow?
@@ -96,6 +98,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Basics of Probability and Information Theory
 [(Return back to Contents)](#Contents)
+
 <img src="03_Basics_of_Probability_and_Information_Theory/Basics_of_Probability_and_Information_Theory.png">
 
 1. Compare “Frequentist probability” vs. “Bayesian probability”?
@@ -138,6 +141,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Confidence interval 
 [(Return back to Contents)](#Contents)
+
 <img src="04_Confidence_Interval/04_Confidence_Interval.png">
 
 1. What is population mean and sample mean?
@@ -151,6 +155,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Learning Theory 
 [(Return back to Contents)](#Contents)
+
 <img src="05_Learning_Theory/ml_learning_theory.png">
 
 1. Describe bias and variance with examples.
@@ -172,6 +177,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Model and feature selection
 [(Return back to Contents)](#Contents)
+
 <img src="06_Feature_Engineering/06_Feature_Engineering.png">
 
 1. Why are model selection methods needed?
@@ -194,6 +200,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Curse of dimensionality
 [(Return back to Contents)](#Contents)
+
 <img src="07_Curse_Of_Dimensionality/Curse_Of_Dimensionality.jpeg">
 
 1. Describe the curse of dimensionality with examples.
@@ -203,6 +210,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Universal approximation of neural networks
 [(Return back to Contents)](#Contents)
+
 <img src="08_Universal_Approximation_of_Neural_Networks/08_Universal_Approximation_of_Neural_Networks.png">
 
 1. State the universal approximation theorem? What is the technique used to prove that?
@@ -213,6 +221,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Deep Learning motivation
 [(Return back to Contents)](#Contents)
+
 <img src="09_Deep_Learning_Motivation/09_Deep_Learning_Motivation.jpg">
 
 1. What is the mathematical motivation of Deep Learning as opposed to standard Machine Learning techniques?
@@ -224,6 +233,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Support Vector Machine
 [(Return back to Contents)](#Contents)
+
 <img src="10_Support_Vector_Machine/10_Support_Vector_Machine.png">
 
 1. How can the SVM optimization function be derived from the logistic regression optimization function?
@@ -247,6 +257,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Bayesian Machine Learning
 [(Return back to Contents)](#Contents)
+
 <img src="11_Bayesian_Machine_Learning/11_Bayesian_Machine_Learning.jpg">
 
 1. What are the differences between “Bayesian” and “Freqentist” approach for Machine Learning?
@@ -259,6 +270,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Regularization
 [(Return back to Contents)](#Contents)
+
 <img src="12_Regularization/12_Regularization.png">
 
 1. What is L1 regularization?
@@ -272,6 +284,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Evaluation of Machine Learning systems
 [(Return back to Contents)](#Contents)
+
 <img src="13_Evaluation_of_Machine_Learning_Systems/13_Evaluation_of_Machine_Learning_Systems.jpg">
 
 1. What are accuracy, sensitivity, specificity, ROC?
@@ -282,6 +295,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Clustering
 [(Return back to Contents)](#Contents)
+
 <img src="14_Clustering/14_Clustering.png">
 
 1. Describe the k-means algorithm.
@@ -297,6 +311,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Dimensionality Reduction
 [(Return back to Contents)](#Contents)
+
 <img src="15_Dimensionality_Reduction/15_Dimensionality_Reduction.png">
 
 1. Why do we need dimensionality reduction techniques?
@@ -308,6 +323,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Basics of Natural Language Processing
 [(Return back to Contents)](#Contents)
+
 <img src="16_Basics_of_Natural_Language_Processing/16_Basics_of_Natural_Language_Processing.png">
 
 1. What is WORD2VEC?
@@ -326,6 +342,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 ### Some basic questions
 [(Return back to Contents)](#Contents)
+
 <img src="17_Some_basic_Questions/17_Some_basic_Questions.png">
 
 1. Can you state Tom Mitchell’s definition of learning and discuss T, P and E?
@@ -358,6 +375,7 @@ Discuss VC dimension.
 
 ### Optimization procedures
 [(Return back to Contents)](#Contents)
+
 <img src="18_Optimization_Procedures/18_Optimization_Procedures.png">
 
 1. What is the difference between an optimization problem and a Machine Learning problem?
@@ -370,6 +388,7 @@ Discuss VC dimension.
 
 ### Sequence Modeling
 [(Return back to Contents)](#Contents)
+
 <img src="19_Sequence_Modeling/19_Sequence_Modeling.jpg">
 
 1. Write the equation describing a dynamical system. Can you unfold it? Now, can you use this to describe a RNN?
@@ -397,6 +416,7 @@ Discuss VC dimension.
 
 ### Autoencoders
 [(Return back to Contents)](#Contents)
+
 <img src="20_Autoencoders/20_Autoencoders.png">
 
 1. What is an Autoencoder? What does it “auto-encode”?
@@ -429,6 +449,7 @@ Discuss VC dimension.
 
 ### Representation Learning
 [(Return back to Contents)](#Contents)
+
 <img src="21_Representation_Learning/21_Representation_Learning.png">
 
 1. What is representation learning? Why is it useful?
@@ -448,6 +469,7 @@ Discuss VC dimension.
 
 ### Monte Carlo Methods
 [(Return back to Contents)](#Contents)
+
 <img src="22_Monte_Carlo_Methods/22_Monte_Carlo_Methods.png">
 
 1. What are deterministic algorithms?
