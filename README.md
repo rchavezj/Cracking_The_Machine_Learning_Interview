@@ -87,4 +87,42 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 12. What is a Hessian matrix?
 
 ### Basics of Probability and Information Theory
-<img src="03_Basics_of_Probability_and_Information_Theory/Basics_of_Probability_and_Information_Theory">
+<img src="03_Basics_of_Probability_and_Information_Theory/Basics_of_Probability_and_Information_Theory.png" width="200">
+
+1. Compare “Frequentist probability” vs. “Bayesian probability”?
+2. What is a random variable?
+3. What is a probability distribution?
+4. What is a probability mass function?
+5. What is a probability density function?
+6. What is a joint probability distribution?
+7. What are the conditions for a function to be a probability mass function?
+8. What are the conditions for a function to be a probability density function?
+9. What is a marginal probability? Given the joint probability function, how will you calculate it?
+10. What is conditional probability? Given the joint probability function, how will you calculate it?
+11. State the Chain rule of conditional probabilities.
+12. What are the conditions for independence and conditional independence of two random variables?
+13. What are expectation, variance and covariance?
+14. Compare covariance and independence.
+15. What is the covariance for a vector of random variables?
+16. What is a Bernoulli distribution? Calculate the expectation and variance of a random variable that follows Bernoulli distribution?
+17. What is a multinoulli distribution?
+18. What is a normal distribution?
+19. Why is the normal distribution a default choice for a prior over a set of real numbers?
+20. What is the central limit theorem?
+21. What are exponential and Laplace distribution?
+22. What are Dirac distribution and Empirical distribution?
+23. What is mixture of distributions?
+24. Name two common examples of mixture of distributions? (Empirical and Gaussian Mixture)
+25. Is Gaussian mixture model a universal approximator of densities?
+26. Write the formulae for logistic and softplus function.
+27. Write the formulae for Bayes rule.
+28. What do you mean by measure zero and almost everywhere?
+29. If two random variables are related in a deterministic way, how are the PDFs related?
+30. Define self-information. What are its units?
+31. What are Shannon entropy and differential entropy?
+32. What is Kullback-Leibler (KL) divergence?
+33. Can KL divergence be used as a distance measure?
+34. Define cross-entropy.
+35. What are structured probabilistic models or graphical models?
+36. In the context of structured probabilistic models, what are directed and undirected models? How are they represented? What are cliques in undirected structured probabilistic models?
+
