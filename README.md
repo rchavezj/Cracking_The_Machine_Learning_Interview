@@ -85,3 +85,6 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 10. What is a Jacobian matrix?
 11. What is curvature?
 12. What is a Hessian matrix?
+
+### Basics of Probability and Information Theory
+<img src="03_Basics_of_Probability_and_Information_Theory/Basics_of_Probability_and_Information_Theory">
