@@ -3,7 +3,11 @@
 Solutions from the Medium article "Cracking the Machine Learning Interview" written by Subhrajit Roy. Subhrajit has only written down the questions in the article with no update in the past year. I plan on finishing the war.  
 https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8
 
-![alt_text](https://github.com/rchavezj/Cracking_The_Machine_Learning_Interview/blob/master/crackingTheMachineLearningInterviewCover.png)
+<a href="https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8" target="_blank">
+  <img src="https://github.com/rchavezj/Cracking_The_Machine_Learning_Interview/blob/master/crackingTheMachineLearningInterviewCover.png">
+</a>
+
+![alt_text]()
 
 # Contents:
 |                        |                                          |
