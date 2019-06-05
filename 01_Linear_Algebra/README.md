@@ -1,5 +1,5 @@
 ### Linear Algebra
-[(Return back to Contents)](../#Contents)
+[(Return back to Contents)](https://github.com/rchavezj/Cracking_The_Machine_Learning_Interview/#Contents)
 
 <img src="linear_algebra.png" width="700">
 
