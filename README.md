@@ -29,7 +29,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 <img src="01_Linear_Algebra/linear_algebra.png" width="700">
 
 1. What is broadcasting in connection to Linear Algebra?
-2. [What are scalars, vectors, matrices, and tensors?](#01_Linear_Algebra/What-are-scalars-vectors-matrices-and-tensors)
+2. [What are scalars, vectors, matrices, and tensors?](#01_Linear_Algebra/What-are-scalars-vectors-matrices-and-tensors?)
 3. What is Hadamard product of two matrices?
 4. What is an inverse matrix?
 5. If inverse of a matrix exists, how to calculate it?
