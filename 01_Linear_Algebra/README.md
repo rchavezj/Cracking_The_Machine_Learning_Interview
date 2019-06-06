@@ -6,7 +6,7 @@
 ### 1. What is broadcasting in connection to Linear Algebra?
 ### 2. What are scalars, vectors, matrices, and tensors?
 >  - Vectors, at least for computer scientist, is commonly used as a list of different dimensions. Each row from one column represents the number of training examples. <img src="vector.png">
->  - Scalers are numerical values to stretch, squeeze, or even change to the opposite direction of a given vector<img src="scaling_v2.png">
+>  - Scalers are numerical values to stretch, squeeze, or even change to the opposite direction of a given vector</br><img src="scaling_v2.png">
 >  - Matrices are similar to vectors except each column is another set of features for the dataset. 
 ### 3. What is Hadamard product of two matrices?
 ### 4. What is an inverse matrix?
