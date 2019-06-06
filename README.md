@@ -24,7 +24,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 
-### [Linear Algebra](#01_Linear_Algebra/)
+### [Linear Algebra](https://github.com/rchavezj/Cracking_The_Machine_Learning_Interview/tree/master/01_Linear_Algebra/#Linear-Algebra)
 [(Return back to Contents)](#Contents)
 <img src="01_Linear_Algebra/linear_algebra.png" width="700">
 
