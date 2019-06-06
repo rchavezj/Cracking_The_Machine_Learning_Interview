@@ -12,6 +12,7 @@
 ### 4. What is an inverse matrix?
 ### 5. If inverse of a matrix exists, how to calculate it?
 ### 6. What is the determinant of a square matrix? How is it calculated? What is the connection of determinant to eigenvalues?
+> <img src="01_Linear_Algebra/determinant.png" width="700">
 ### 7. Discuss span and linear dependence.
 ### 8. What is Ax = b? When does Ax =b has a unique solution?
 ### 9. In Ax = b, what happens when A is fat or tall?
