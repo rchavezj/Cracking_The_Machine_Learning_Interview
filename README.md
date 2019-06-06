@@ -1,6 +1,6 @@
 # Solutions on Cracking The Machine Learning Interview
 ### -------> Currently under construction! <-------
-Solutions from the Medium article "Cracking the Machine Learning Interview" written by Subhrajit Roy. Subhrajit has only written down the questions in the article with no update in the past year. I plan on finishing the war.  
+Solutions from the Medium article "Cracking the Machine Learning Interview". Subhrajit, the author from the article, has only written down questions and no update on the solutions in the past year. I plan on finishing the war. 
 https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8
 
 <a href="https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8" target="_blank">
@@ -24,13 +24,12 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 
 
 
-### Linear Algebra
+### [Linear Algebra](01_Linear_Algebra/#Linear-Algebra)
 [(Return back to Contents)](#Contents)
-
 <img src="01_Linear_Algebra/linear_algebra.png" width="700">
 
 1. What is broadcasting in connection to Linear Algebra?
-2. What are scalars, vectors, matrices, and tensors?
+2. [What are scalars, vectors, matrices, and tensors?](01_Linear_Algebra/#2-What-are-scalars-vectors-matrices-and-tensors)
 3. What is Hadamard product of two matrices?
 4. What is an inverse matrix?
 5. If inverse of a matrix exists, how to calculate it?
