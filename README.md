@@ -1,6 +1,6 @@
 # Solutions on Cracking The Machine Learning Interview
 ### -------> Currently under construction! <-------
-Solutions from the Medium article "Cracking the Machine Learning Interview". Subhrajit, the author from the article, has only written down questions and no update on the solutions in the past year. I plan on finishing the war. 
+Solutions from the Medium article "Cracking the Machine Learning Interview". Subhrajit, the author from the article, has only written down questions and no update on the solutions in the past year. I plan on finishing the war. I may add more questions outside of the articles domain. 
 https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8
 
 <a href="https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8" target="_blank">
