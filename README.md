@@ -478,3 +478,24 @@ Discuss VC dimension.
 3. What are deterministic approximate algorithms?
 4. What are Monte Carlo algorithms?
 
+
+
+### Generative Models
+1. Basics of GAN?
+2. How do you train a GAN (Backpropagation)?
+3. Cost function derivation?
+4. What are the drawbacks for GAN?
+5. Implementation in PyTorch
+6. Implementation in Tensorflow
+
+
+
+### Reinforcement Learning
+1. What is the Reinforcement Learning?
+2. Factors in Reinforcement Learning with Python
+3. Types of Reinforcement Learning with Python
+4. Positive Reinforcement Learning
+5. Negative Reinforcement Learning
+6. Reinforced Learning vs Supervised Learning
+7. Decision Making
+8. Dependency and Labels
