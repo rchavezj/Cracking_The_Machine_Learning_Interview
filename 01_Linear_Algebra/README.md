@@ -3,8 +3,6 @@
 
 <img src="linear_algebra.png" width="700">
 
-\frac{1}{1+sin(x)}
-
 ### 1. What is broadcasting in connection to Linear Algebra?
 ### 2. What are scalars, vectors, matrices, and tensors?
 Vectors have three different meanings: physics, computer science (machine learning), and mathamatics. The physics student perspective is that vectors are arrows pointing in space. What defines a given vector is it's length, and the direction it's pointing in, but as long as those two facts are the same, you can move it all around and it's still the same vector. Vectors that live in the flat plane are 2d, and those sitting in broader space that you and I live in are 3d. The computer scientist perspective is that vectors are ordered lists of numbers. For example, lets that you were doing some analytics about house prices, and the only features you cared about were square footage and price. You might model each house with a pair of numbers: the first indicating sqaure footsage, and the second indicating price. In the machine learning community, each row from one column represents the number of training examples. The mathmatician tries to generalize both of the physicist and computer scientist. </br> <img src="physics.png" width="288" height="200"><img src="math_vector.png" width="288" height="200"><img src="cs_vector.png" width="288" height="200">
