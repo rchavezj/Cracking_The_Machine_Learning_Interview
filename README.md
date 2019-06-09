@@ -482,6 +482,8 @@ Discuss VC dimension.
 
 
 ### Generative Models
+[(Return back to Contents)](#Contents)
+
 <img src="23_Generative_Models/23_Generative_Models.png">
 
 1. Basics of GAN?
@@ -494,6 +496,8 @@ Discuss VC dimension.
 
 
 ### Reinforcement Learning
+[(Return back to Contents)](#Contents)
+
 <img src="24_Reinforcement_Learning/24_Reinforcement_Learning.png">
 
 
