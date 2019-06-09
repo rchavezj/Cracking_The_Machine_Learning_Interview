@@ -37,7 +37,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 5. If inverse of a matrix exists, how to calculate it?
 6. What is the determinant of a square matrix? How is it calculated? What is the connection of determinant to eigenvalues?
 7. Discuss span and linear dependence.
-8. Following up on question #7, what does the follow quote mean, "The basis of a vector space is a set of linearly independent vectors that span the full space."
+8. Following up on question #7, what does the following definition mean, "The basis of a vector space is a set of linearly independent vectors that span the full space."
 9. What is Ax = b? When does Ax =b has a unique solution?
 10. In Ax = b, what happens when A is fat or tall?
 11. When does inverse of A exist?
