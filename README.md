@@ -38,10 +38,10 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 6. What is the determinant of a square matrix? How is it calculated? What is the connection of determinant to eigenvalues?
 7. Why does the negative area of the determinent relate to orientation flipping? Check out lecture 6 from 3BLUE1BROWN? 
 8. Justify in one sentence why the following equation on why it is true: "If you multiply two matrices together, the determinent of the reulting matrix is the same as the product of the determinence of the original two matrices" det(M_{1}M_{2}) = det(M_{1})det(M_{2}). If you try to justify with numbers it would take a long time. 
-9a.  Discuss span and linear dependence.
-9b. Following up on question #7, what does the following definition mean, "The basis of a vector space is a set of linearly independent vectors that span the full space."
-9c. What is Ax = b? When does Ax = b has a unique solution?
-10. In Ax = b, what happens when A is fat or tall?
+9.  Discuss span and linear dependence.
+10. Following up on question #7, what does the following definition mean, "The basis of a vector space is a set of linearly independent vectors that span the full space."
+11. What is Ax = b? When does Ax = b has a unique solution?
+12. In Ax = b, what happens when A is fat or tall?
 11. When does inverse of A exist?
 12. What is a norm? What is L1, L2 and L infinity norm?
 13. What are the conditions a norm has to satisfy?
