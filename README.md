@@ -490,8 +490,8 @@ Discuss VC dimension.
 2. How do you train a GAN (Backpropagation)?
 3. Cost function derivation?
 4. What are the drawbacks for GAN?
-5. Implementation in PyTorch
-6. Implementation in Tensorflow
+5. Implement GAN with PyTorch
+6. Implement GAN with Tensorflow
 
 
 
