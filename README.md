@@ -267,6 +267,10 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 3. How does Bayesian methods do automatic feature selection?
 4. What do you mean by Bayesian regularization?
 5. When will you use Bayesian methods instead of Frequentist methods?
+6. Please explain Expectation-Maximization algorithm
+7. What is Variational Inference?
+8. What is Latent Dirichlet Allocation (LDA)?
+9. What is Markov chain?
 
 
 
