@@ -94,6 +94,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 10. What is a Jacobian matrix?
 11. What is curvature?
 12. What is a Hessian matrix?
+13. What is a gradient checking?
 
 
 
@@ -481,6 +482,8 @@ Discuss VC dimension.
 
 
 ### Generative Models
+<img src="23_Generative_Models/23_Generative_Models.png">
+
 1. Basics of GAN?
 2. How do you train a GAN (Backpropagation)?
 3. Cost function derivation?
@@ -491,6 +494,9 @@ Discuss VC dimension.
 
 
 ### Reinforcement Learning
+<img src="24_Reinforcement_Learning/24_Reinforcement_Learning.png">
+
+
 1. What is the Reinforcement Learning?
 2. Factors in Reinforcement Learning with Python
 3. Types of Reinforcement Learning with Python
