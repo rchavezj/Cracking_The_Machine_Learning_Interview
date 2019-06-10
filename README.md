@@ -36,44 +36,47 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 4. What is an inverse matrix?
 5. If inverse of a matrix exists, how to calculate it?
 6. What is the determinant of a square matrix? How is it calculated? What is the connection of determinant to eigenvalues?
-7. Discuss span and linear dependence.
-8. What is Ax = b? When does Ax =b has a unique solution?
-9. In Ax = b, what happens when A is fat or tall?
-10. When does inverse of A exist?
-11. What is a norm? What is L1, L2 and L infinity norm?
-12. What are the conditions a norm has to satisfy?
-13. Why is squared of L2 norm preferred in ML than just L2 norm?
-14. When L1 norm is preferred over L2 norm?
-15. Can the number of nonzero elements in a vector be defined as L0 norm? If no, why?
-16. What is Frobenius norm?
-17. What is a diagonal matrix?
-18. Why is multiplication by diagonal matrix computationally cheap? How is the multiplication different for square vs. non-square diagonal matrix?
-19. At what conditions does the inverse of a diagonal matrix exist?
-20. What is a symmetrix matrix?
-21. What is a unit vector?
-22. When are two vectors x and y orthogonal?
-23. At R^n what is the maximum possible number of orthogonal vectors with non-zero norm?
-24. When are two vectors x and y orthonormal?
-25. What is an orthogonal matrix? Why is computationally preferred?
-26. What is eigendecomposition, eigenvectors and eigenvalues?
-27. How to find eigen values of a matrix?
-28. Write the eigendecomposition formula for a matrix. If the matrix is real symmetric, how will this change?
-29. Is the Eigendecomposition guaranteed to be unique? If not, then how do we represent it?
-30. What are positive definite, negative definite, positive semi definite and negative semi definite matrices?
-31. What is Singular Value Decomposition? Why do we use it? Why not just use ED?
-32. Given a matrix A, how will you calculate its Singular Value Decomposition?
-33. What are singular values, left singulars and right singulars?
-34. What is the connection of Singular Value Decomposition of A with functions of A?
-35. Why are singular values always non-negative?
-36. What is the Moore Penrose pseudo inverse and how to calculate it?
-37. If we do Moore Penrose pseudo inverse on Ax = b, what solution is provided is A is fat? Moreover, what solution is provided if A is tall?
-38. Which matrices can be decomposed by ED?
-39. Which matrices can be decomposed by SVD?
-40. What is the trace of a matrix?
-41. How to write Frobenius norm of a matrix A in terms of trace?
-42. Why is trace of a multiplication of matrices invariant to cyclic permutations?
-43. What is the trace of a scalar?
-44. Write the frobenius norm of a matrix in terms of trace?
+7. Why does the negative area of the determinent relate to orientation flipping? Check out lecture 6 from 3BLUE1BROWN? 
+8. Justify in one sentence why the following equation on why it is true: "If you multiply two matrices together, the determinent of the reulting matrix is the same as the product of the determinence of the original two matrices" det(M_{1}M_{2}) = det(M_{1})det(M_{2}). If you try to justify with numbers it would take a long time. 
+9.  Discuss span and linear dependence.
+10. Following up on question #7, what does the following definition mean, "The basis of a vector space is a set of linearly independent vectors that span the full space."
+11. What is Ax = b? When does Ax = b has a unique solution?
+12. In Ax = b, what happens when A is fat or tall?
+11. When does inverse of A exist?
+12. What is a norm? What is L1, L2 and L infinity norm?
+13. What are the conditions a norm has to satisfy?
+14. Why is squared of L2 norm preferred in ML than just L2 norm?
+15. When L1 norm is preferred over L2 norm?
+16. Can the number of nonzero elements in a vector be defined as L0 norm? If no, why?
+17. What is Frobenius norm?
+18. What is a diagonal matrix?
+19. Why is multiplication by diagonal matrix computationally cheap? How is the multiplication different for square vs. non-square diagonal matrix?
+20. At what conditions does the inverse of a diagonal matrix exist?
+21. What is a symmetrix matrix?
+22. What is a unit vector?
+23. When are two vectors x and y orthogonal?
+24. At R^n what is the maximum possible number of orthogonal vectors with non-zero norm?
+25. When are two vectors x and y orthonormal?
+26. What is an orthogonal matrix? Why is computationally preferred?
+27. What is eigendecomposition, eigenvectors and eigenvalues?
+28. How to find eigen values of a matrix?
+29. Write the eigendecomposition formula for a matrix. If the matrix is real symmetric, how will this change?
+30. Is the Eigendecomposition guaranteed to be unique? If not, then how do we represent it?
+31. What are positive definite, negative definite, positive semi definite and negative semi definite matrices?
+32. What is Singular Value Decomposition? Why do we use it? Why not just use ED?
+33. Given a matrix A, how will you calculate its Singular Value Decomposition?
+34. What are singular values, left singulars and right singulars?
+35. What is the connection of Singular Value Decomposition of A with functions of A?
+36. Why are singular values always non-negative?
+37. What is the Moore Penrose pseudo inverse and how to calculate it?
+38. If we do Moore Penrose pseudo inverse on Ax = b, what solution is provided is A is fat? Moreover, what solution is provided if A is tall?
+39. Which matrices can be decomposed by ED?
+40. Which matrices can be decomposed by SVD?
+41. What is the trace of a matrix?
+42. How to write Frobenius norm of a matrix A in terms of trace?
+43. Why is trace of a multiplication of matrices invariant to cyclic permutations?
+44. What is the trace of a scalar?
+45. Write the frobenius norm of a matrix in terms of trace?
 
 
 
@@ -267,6 +270,10 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 3. How does Bayesian methods do automatic feature selection?
 4. What do you mean by Bayesian regularization?
 5. When will you use Bayesian methods instead of Frequentist methods?
+6. Please explain Expectation-Maximization algorithm
+7. What is Variational Inference?
+8. What is Latent Dirichlet Allocation (LDA)?
+9. What is Markov chain?
 
 
 
@@ -482,18 +489,24 @@ Discuss VC dimension.
 
 
 ### Generative Models
+[(Return back to Contents)](#Contents)
+
 <img src="23_Generative_Models/23_Generative_Models.png">
 
-1. Basics of GAN?
-2. How do you train a GAN (Backpropagation)?
-3. Cost function derivation?
-4. What are the drawbacks for GAN?
-5. Implementation in PyTorch
-6. Implementation in Tensorflow
+1. What is a Variational Autoencoder (VAE)?
+2. How is VAE different from a regular Autoencoder?
+3. Basics of GAN?
+4. How do you train a GAN (Backpropagation)?
+5. Cost function derivation?
+6. What are the drawbacks for GAN?
+7. Implement GAN with PyTorch
+8. Implement GAN with Tensorflow
 
 
 
 ### Reinforcement Learning
+[(Return back to Contents)](#Contents)
+
 <img src="24_Reinforcement_Learning/24_Reinforcement_Learning.png">
 
 
