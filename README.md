@@ -493,12 +493,14 @@ Discuss VC dimension.
 
 <img src="23_Generative_Models/23_Generative_Models.png">
 
-1. Basics of GAN?
-2. How do you train a GAN (Backpropagation)?
-3. Cost function derivation?
-4. What are the drawbacks for GAN?
-5. Implement GAN with PyTorch
-6. Implement GAN with Tensorflow
+1. What is a Variational Autoencoder (VAE)?
+2. How is VAE different from a regular Autoencoder?
+3. Basics of GAN?
+4. How do you train a GAN (Backpropagation)?
+5. Cost function derivation?
+6. What are the drawbacks for GAN?
+7. Implement GAN with PyTorch
+8. Implement GAN with Tensorflow
 
 
 
