@@ -26,6 +26,9 @@ Matrices are similar to vectors except each column is another set of features fo
 ### 13. What are the conditions a norm has to satisfy?
 ### 14. Why is squared of L2 norm preferred in ML than just L2 norm?
 ### 15. When L1 norm is preferred over L2 norm?
+L1-norm loss function is also known as least absolute deviations (LAD), least absolute errors (LAE). It is basically minimizing the sum of the absolute differences (S) between the target value (Yi) and the estimated values (f(xi)):
+</br>
+L2-norm loss function is also known as least squares error (LSE). It is basically minimizing the sum of the square of the differences (S) between the target value (Yi) and the estimated values (f(xi):
 ### 16. Can the number of nonzero elements in a vector be defined as L0 norm? If no, why?
 ### 17. What is Frobenius norm?
 ### 18. What is a diagonal matrix?
