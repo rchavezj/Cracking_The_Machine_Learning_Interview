@@ -1,6 +1,6 @@
 # Solutions on Cracking The Machine Learning Interview
 ### -------> Currently under construction! <-------
-I am currently writing a solution from the Medium article "Cracking the Machine Learning Interview," written by Subhrajit Roy. In the past year since the article went public, Subhrajit has only written down the questions with no update on the solutions. I plan on finishing the war. I may add more questions outside of the articles domain. 
+I am currently writing a solution from the Medium article "Cracking the Machine Learning Interview," written by Subhrajit Roy. In the past year since the article went public, Subhrajit has only written down the questions with no update on the solutions. I plan on finishing the war. I may add more questions outside of the articles domain. No one else on the internet has written down a solution for a machine learning interview, an opportunity I want to take advantage of. Some of my solutions may contain code from the following following frameworks: Scikit-Learn, PyTorch, TensorFlow
 
 https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8
 

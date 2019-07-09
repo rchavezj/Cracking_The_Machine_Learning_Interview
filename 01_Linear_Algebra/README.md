@@ -6,8 +6,12 @@
 ### 1. What is broadcasting in connection to Linear Algebra?
 ### 2. What are scalars, vectors, matrices, and tensors?
 Vectors have three different perspective: physics, computer science (machine learning), and mathamatics. The physics student perspective is that vectors are arrows pointing in space. What defines a given vector is it's length, and the direction it's pointing in, but as long as those two facts are the same, you can move it all around and it's still the same vector. Vectors that live in the flat plane are 2d, and those sitting in broader space that you and I live in are 3d. The computer scientist perspective is that vectors are ordered lists of numbers. For example, lets that you were doing some analytics about house prices, and the only features you cared about were square footage and price. You might model each house with a pair of numbers: the first indicating sqaure footsage, and the second indicating price. In the machine learning community, each row from one column represents the number of training examples. The mathmatician tries to generalize both of the physicist and computer scientist. </br> <img src="physics.png" width="288" height="200"><img src="math_vector.png" width="288" height="200"><img src="cs_vector.png" width="288" height="200">
-Scalers are numerical values to stretch, squeeze, or even change to the opposite direction of a given vector. Scalers are computed through multiplication. </br></br><center><img src="scaling_v2.png" width="300"></center></br>
-Matrices are similar to vectors except each column is another set of features for the dataset.</br> </br><center><img src="matrices.png" width="500"></center>
+Scalers are numerical values to stretch, squeeze, or even change to the opposite direction of a given vector. Scalers are computed through multiplication. 
+   
+   <center><img src="scaling_v2.png" width="300"></center>
+
+Matrices are similar to vectors except each column is another set of features for the dataset.</br>
+</br><center><img src="matrices.png" width="500"></center>
 ### 3. What is Hadamard product of two matrices?
 ### 4. What is an inverse matrix?
 ### 5. If inverse of a matrix exists, how to calculate it?
@@ -22,6 +26,9 @@ Matrices are similar to vectors except each column is another set of features fo
 ### 13. What are the conditions a norm has to satisfy?
 ### 14. Why is squared of L2 norm preferred in ML than just L2 norm?
 ### 15. When L1 norm is preferred over L2 norm?
+L1-norm loss function is also known as least absolute deviations (LAD), least absolute errors (LAE). It is basically minimizing the sum of the absolute differences (S) between the target value (Yi) and the estimated values (f(xi)):
+</br>
+L2-norm loss function is also known as least squares error (LSE). It is basically minimizing the sum of the square of the differences (S) between the target value (Yi) and the estimated values (f(xi):
 ### 16. Can the number of nonzero elements in a vector be defined as L0 norm? If no, why?
 ### 17. What is Frobenius norm?
 ### 18. What is a diagonal matrix?
