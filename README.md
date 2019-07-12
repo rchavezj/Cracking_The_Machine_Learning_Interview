@@ -509,7 +509,6 @@ Discuss VC dimension.
 
 <img src="24_Reinforcement_Learning/24_Reinforcement_Learning.png">
 
-
 1. What is the Reinforcement Learning?
 2. Factors in Reinforcement Learning with Python
 3. Types of Reinforcement Learning with Python
