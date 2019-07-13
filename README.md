@@ -8,7 +8,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
   <img src="https://github.com/rchavezj/Cracking_The_Machine_Learning_Interview/blob/master/crackingTheMachineLearningInterviewCover.png">
 </a>
 
-# Contents:
+# Contents: 
 |                        |                                          |
 | ---------------------- | ---------------------------------------- |
 | 1. [Linear Algebra](#Linear-Algebra)                         | 2. [Numerical Optimization](#Numerical-Optimization)                                         |
