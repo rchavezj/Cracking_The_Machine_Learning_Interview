@@ -43,7 +43,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 11. What is Ax = b? When does Ax = b has a unique solution?
 12. In Ax = b, what happens when A is fat or tall?
 11. When does inverse of A exist?
-12. What is a norm? What is L1, L2 and L infinity norm?
+12. [What is a norm? What is L1, L2 and L infinity norm?](#)
 13. What are the conditions a norm has to satisfy?
 14. Why is squared of L2 norm preferred in ML than just L2 norm?
 15. When L1 norm is preferred over L2 norm?
