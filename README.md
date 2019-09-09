@@ -23,6 +23,7 @@ https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb
 | 19. [Sequence Modeling](#Sequence-Modeling)                  |  20. [Autoencoders](#Autoencoders)               |
 | 21. [Representation Learning](#Representation-Learning)      |  22. [Monte Carlo Methods](#Monte-Carlo-Methods) |
 | 23. [Generative Models](#Generative-Models)                  |  24. [Reinforcement Learning](#Reinforcement-Learning) |
+| 25. [Probabilistic Graphical Models](#Probabilistic-Graphical-Models)     | | 26. [Computational Logic](#Computational-Logic)     |
 
 
 
